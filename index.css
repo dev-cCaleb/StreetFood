@@ -2,6 +2,12 @@ body{
   font-family: "lato Extended", lato, "Helvetica Neue",Arial, Helvetica, sans-serif;
   overflow-x: hidden;
  }
+ #sectiona{
+   background-color: #808080fd;
+ }
+ #sectionb img{
+   margin-top: 50px;
+ }
  nav{
     display: flex;
     justify-content: space-between;
@@ -267,55 +273,3 @@ span .street{
   margin-left: 0px;
   margin-right: 0px;
 }
-/* #sectiond h2{
-  text-align: center;
-  display: flex;
-  justify-content: center;
-}
-#sectiond img{
-  width: 350px;
-  display: flex;
-  justify-content: left;
-}
-#sectiond .hdeals{
-  display: flex;
-  justify-content: right;
-  align-items: center;
-  flex-wrap: wrap;
-  flex-direction: column;
-}
-#sectiond{
-  background-color: #649649;
-  margin-top: -19px;
-}
-#sectione h2{
-  display: flex;
-  text-align: center;
-  justify-content: center;
-}
-#sectione .cus{
-display: flex;
-flex-wrap: wrap;
-align-content: center;
-justify-content: center;
-}
-#sectione .ph{
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
-  justify-content: center;
-}
-#sectione .but{
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
-  justify-content: center;
-  color: green;
-}
-#sectione{
-  background-color:  #FFD77C;
-  margin-top: -19px;
-}
-footer{
-  
-} */

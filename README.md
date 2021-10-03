@@ -22,4 +22,5 @@
 <p>We would like to acknowledge Moringaschool and also joshua-barawa they contributed a lot in the complition of this project.</p>
 
 <h1>License</h1>
-<p>©2021 dev-cCaleb</p>
+<p>MIT License</p>
+<p>Copyright (c)[2021][dev-cCaleb]</p>
